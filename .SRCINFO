@@ -1,0 +1,11 @@
+pkgbase = deepseek-electron
+pkgdesc = Aplicación Electron para DeepSeek Chat
+pkgver = 1.0.0
+pkgrel = 1
+url = https://chat.deepseek.com
+arch = x86_64
+license = MIT
+depends = electron
+depends = nodejs
+
+pkgname = deepseek-electron
